@@ -27,7 +27,7 @@ public class CelsiusConverterGUI extends JFrame{
     }
 
     public static void main(String[] arg){
-        JFrame frame = new CelsiusConverterGUI("My Celsius Converter");
+        JFrame frame = new CelsiusConverterGUI("My Celsius Converter 溫度轉換器");
         frame.setVisible(true);
     }
 }
